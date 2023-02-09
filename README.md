@@ -42,6 +42,9 @@ Some GUI images of Football Player Management System
 <br>
 <img src = "/img/f3.png">
 <br>
+<br>
+<img src = "/img/f4.png">
+<br>
 <!-- ................................................................................................................................. -->
 
 
